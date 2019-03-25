@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipIt", "ShipIt\ShipIt.csproj", "{E54D79C6-904C-4FE4-A456-7E34417D1113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nunit3_DataDrivenExamples", "Nunit3_DataDrivenExamples\Nunit3_DataDrivenExamples.csproj", "{E40B0D46-100E-43BD-8D4F-9AF4947F1F83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54D79C6-904C-4FE4-A456-7E34417D1113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54D79C6-904C-4FE4-A456-7E34417D1113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54D79C6-904C-4FE4-A456-7E34417D1113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54D79C6-904C-4FE4-A456-7E34417D1113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40B0D46-100E-43BD-8D4F-9AF4947F1F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40B0D46-100E-43BD-8D4F-9AF4947F1F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40B0D46-100E-43BD-8D4F-9AF4947F1F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40B0D46-100E-43BD-8D4F-9AF4947F1F83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
