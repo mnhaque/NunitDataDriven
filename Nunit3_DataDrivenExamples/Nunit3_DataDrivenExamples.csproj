@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Credit\CreditDecissionTest.cs" />
+    <Compile Include="StringOperation\StringoperationsTest.cs" />
     <Compile Include="TestCaseExamples.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestCaseDataExamples.cs" />

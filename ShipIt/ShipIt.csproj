@@ -46,6 +46,9 @@
     <Compile Include="Credit\Service\ICreditDecisionService.cs" />
     <Compile Include="PriceEstimator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringOperations.cs" />
+    <Compile Include="Util\IUtility.cs" />
+    <Compile Include="Util\Utility.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
