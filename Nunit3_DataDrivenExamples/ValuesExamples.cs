@@ -9,6 +9,7 @@ using ShipIt;
 
 namespace Nunit3_DataDrivenExamples
 {
+    [TestFixture]
     public class ValuesExamples
     {
         private PriceEstimator _shipper;
